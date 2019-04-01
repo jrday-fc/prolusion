@@ -2,7 +2,7 @@
   "author": {
     "name": "jrday-fc"
   },
-  "version": "0.1.1",
+  "version": "0.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -76,7 +76,6 @@
   "jest": {},
   "name": "prolusion",
   "description": "my new project",
-  "version": "0.1.0",
   "homepage": "https://github.com/jrday-fc/prolusion#readme",
   "bugs": {
     "url": "https://github.com/jrday-fc/prolusion/issues"
